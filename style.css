@@ -1,0 +1,24 @@
+	.content{
+		font-family:Verdana,Geneva,sans-serif;
+		font-size:12px;
+		padding:20px;
+		margin-left:25%;
+		margin-right:25%;
+	}
+	.explanation{
+		font-weight:bold;
+		border-bottom:1px solid #000;
+		margin-bottom:10px;
+	}
+	.code{
+		background-color:#EEE;
+		margin-bottom:10px;
+		font-size:10px !important;
+	}
+	#table-results {
+		border:1px solid;
+		font-size:11px !important;
+	}
+	.linkitem{
+		margin-bottom:20px;
+	}
