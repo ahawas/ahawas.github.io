@@ -1,0 +1,6 @@
+{
+  "name": "Ahmed Hawas",
+  "tagline": "",
+  "body": "Github projects  \r\n\r\n**[rgen](https://github.com/ahawas/rgen)**  \r\nServeral C++ grouped classes that can be used to simulate Pseudo-Random, Uniform(0,1), Exponential(lambda) and Normal Distributions(mu,sigma).  \r\n\r\n**[Montecarlo Option Pricing](https://github.com/ahawas/stochastic/tree/master/montecarlo/montecarlo)**  \r\nThis is a multithreaded montecarlo option pricing library. It can be used to price American and European call/put options.  \r\n\r\n[Hedge Fund Cloning](https://github.com/ahawas/collection/tree/master/hedgeliquidity)  \r\n﻿Project to clone hedge fund returns while minimizing liquidity risk ( autocorrelation of lag 1 ), using SP500, US Bonds, Commodities, Dow Jones Corporate Bond Index minus the return on the Lehman Treasury index, and the Goldman Sachs commodity index and the USD, return ona broad based currency.  \r\n\r\n[**Simulating Poisson Normal Mixtures**](https://github.com/ahawas/collection/blob/master/poisnormmix.r)  \r\n﻿Project to simulate Poisson-Normal Mixtures and compare the empirical moments to their theoretical ones.  \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
